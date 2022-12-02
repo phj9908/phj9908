@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 <img src="http://mazandi.herokuapp.com/api?handle={phj9908}&theme=warm"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phj9908)](https://github.com/phj9908/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phj9908)](https://github.com/phj9908/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phj9908&layout=compact)](https://github.com/phj9908/github-readme-stats)
