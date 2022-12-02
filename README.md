@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 <h3 align="center">:open_book:Carrer:open_book:</h3>
 <p align="center">:student:계명대학교 전자공학과</p>
 
-<h3 align="center">:rainbow:🌱 I’m currently learning ...:</h3>
+<h3 align="center">:rainbow:🌱 I’m currently learning... :</h3>
 
 
-![MyoungChae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungChae&show_icons=true&theme=dracula)
+![HyeJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungChae&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungChae)](https://github.com/anuraghazra/github-readme-stats)
