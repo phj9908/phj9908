@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <h3 align="center">:open_book:Carrer:open_book:</h3>
 <p align="center">:student:계명대학교 전자공학과</p>
 
-<h3 align="center">:rainbow:🌱  :</h3>
+<h3 align="center">:rainbow:🌱👯✨ </h3>
 
 ![Hyeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=phj9908&show_icons=true&theme=dracula)
 <img src="http://mazandi.herokuapp.com/api?handle=phj9908&theme=merko"/>
