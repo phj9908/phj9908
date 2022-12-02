@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <img src="http://mazandi.herokuapp.com/api?handle=phj9908&theme=warm"/>
 
 
-![phj9908's GitHub stats](https://github-readme-stats.vercel.app/api?username=phj9908&show_icons=true&theme=dracula)
+![Hyeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=phj9908&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phj9908)](https://github.com/anuraghazra/github-readme-stats)
 
