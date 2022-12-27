@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=HyeJi's%20Repository&fontSize=90)
 <h3 align="center">:open_book:Carrer:open_book:</h3>
 <p align="center">:student:계명대학교 전자공학과</p>
 
